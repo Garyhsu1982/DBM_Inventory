@@ -4,6 +4,7 @@ import base64
 from st_aggrid import AgGrid
 import plotly.express as px  
 import numpy as np
+import openpyxl
 
 
 st.set_page_config(page_title="Lab Inventory")
