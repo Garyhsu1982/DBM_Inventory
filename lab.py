@@ -4,6 +4,7 @@ import base64
 from st_aggrid import AgGrid
 import plotly.express as px  
 import numpy as np
+from openpyxl import load_workbook
 
 st.set_page_config(page_title="Lab Inventory")
 st.title("Current Status of Lab Inventory")
