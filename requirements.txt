@@ -1,7 +1,7 @@
-numpy==1.25.2
-pandas==1.4.2
-plotly==5.9.0
-streamlit==1.14.1
-streamlit-aggrid==0.2.3.post2
-openpyxl==3.0.10
+numpy
+pandas
+plotly
+streamlit
+streamlit-aggrid
+openpyxl
 setuptools
