@@ -92,7 +92,7 @@ else:
 
 
 
-@st.cache
+@st.cache_data
 def convert_df(df6):
      # IMPORTANT: Cache the conversion to prevent computation on every rerun
      return df6.to_csv().encode('utf-8')
